@@ -5,9 +5,6 @@ node_modules/
 *.log
 
 # Environment files
-.env
-.env.local
-.env.production
 
 # Wrangler
 .wrangler/
@@ -23,3 +20,4 @@ Thumbs.db
 # Build outputs
 dist/
 build/
+config.bat
